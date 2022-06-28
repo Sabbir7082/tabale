@@ -1,0 +1,13 @@
+table {
+    width: 700px;
+    height: 300px;
+    border-collapse: collapse;
+    margin: 200px auto;
+    background-color: aqua;
+}
+
+td,
+th {
+    padding: 10px 20px;
+    border: 2px solid gold;
+}
